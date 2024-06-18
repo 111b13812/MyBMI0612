@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyBMI0612</string>
+    <string name="strCalc">Calc</string>
+    <string name="strInputHeight">please input Height</string>
+    <string name="strInputWeight">please input Weight</string>
+    <string name="strShowbmi">Your BMI is</string>
+    <string name="strGoNext" >Go Next</string>
+    <string name="goBack">返回</string>
+</resources>
